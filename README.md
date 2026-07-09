@@ -2,8 +2,7 @@
 
 > A floating AI-powered desktop assistant built in Python. Ask questions, get real-time answers — without leaving your screen.
 
-<!-- Replace the line below with your actual GIF once you have it -->
-![Kogane Demo](demo.gif)
+▶️ [Watch Demo](demo.mp4)
 
 ---
 
