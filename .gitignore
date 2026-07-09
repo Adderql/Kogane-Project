@@ -1,0 +1,6 @@
+.env
+kogane.db
+kogane_pos.json
+__pycache__/
+kogane_base_gen.png
+events/

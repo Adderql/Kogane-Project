@@ -1,0 +1,380 @@
+[
+  {
+    "ts": "2026-05-13 01:34",
+    "user": "hi",
+    "response": "What's up, boss! Ready to take on the day! What's the plan?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:34",
+    "user": "can you see my screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:34",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen with multiple windows open, including a code editor with a Python script and a chat interface with a vision bubble and chat history panel. The chat interface appears to be for a program called \"Kogane\" and includes features such as a persistent vision bubble, follow-up input inside the bubble, and a chat history panel.\n\nWhat would you like help wit",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:35",
+    "user": "nothing",
+    "response": "SCREEN",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:35",
+    "user": "hey",
+    "response": "Yooo, what's good!",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:40",
+    "user": "hey",
+    "response": "What's up, boss? READY TO ROCK!",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:41",
+    "user": "yea pls can you answer thr question on my screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:41",
+    "user": "[screen read]",
+    "response": "The screenshot shows a coding environment with a chat interface on the left and a code editor on the right, displaying a conversation about generating an SVG file for character import and a Python script for an AI project. \n\nWhat would you like help with regarding this content, such as understanding the code, generating the SVG file, or something else?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:43",
+    "user": "can you do number 1,2 and 3 pls",
+    "response": "Got it! You're asking me to do numbers 1, 2, and 3. To confirm: \n1. SCREEN \n2. OPEN:kogane.py \n3. SEARCH:Shikigami SVG download",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:43",
+    "user": "can you solve number 1 2 and 3 on my screen pls",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:43",
+    "user": "[screen read]",
+    "response": "The image shows a computer screen displaying a math worksheet with 19 quadratic equations to solve for x.\n\nThe worksheet is titled \"Solving Quadratic Equations (A)\" and has two columns of equations. The user is prompted to solve each equation for x.\n\nWhat would you like help with regarding these quadratic equations? Would you like me to solve a specific equation, explain the steps to solve them, o",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:43",
+    "user": "yes number 1 2 and 3",
+    "response": "To solve these quadratic equations, I'll go through each of the three equations you've listed:\n\n1. **-64x^2 - 48x - 5 = 0**\n\nTo solve this equation, we can use the quadratic formula, which is given by:\n\\[x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}\\]\n\nFor the equation \\(-64x^2 - 48x - 5 = 0\\), \\(a = -64\\), \\(b = -48\\), and \\(c = -5\\).\n\n\\[x = \\frac{-(-48) \\pm \\sqrt{(-48)^2 - 4(-64)(-5)}}{2(-64)}\\]\n\\[x = \\frac{48 \\pm \\sqrt{2304 - 1280}}{-128}\\]\n\\[x = \\frac{48 \\pm \\sqrt{1024}}{-128}\\]\n\\[x = \\frac{48 \\pm 32}{-128}\\]\n\nSo,\n\\[x_1 = \\frac{48 + 32}{-128} = \\frac{80}{-128} = -\\frac{5}{8}\\]\n\\[x_2 = \\frac{48 - 32}{-128} = \\frac{16}{-128} = -\\frac{1}{8}\\]\n\n2. **-9x^2 + 48x - 64 = 0**\n\nUsing the quadratic formula with \\(a = -9\\), \\(b = 48\\), and \\(c = -64\\):\n\\[x = \\frac{-48 \\pm \\sqrt{(48)^2 - 4(-9)(-64)}}{2(-9)}\\]\n\\[x = \\frac{-48 \\pm \\sqrt{2304 - 2304}}{-18}\\]\n\\[x = \\frac{-48 \\pm \\sqrt{0}}{-18}\\]\n\\[x = \\frac{-48}{-18} = \\frac{8}{3}\\]\n\nSince the",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:50",
+    "user": "hi",
+    "response": "YO, what's up! I'm Kogane, your go-to AI sidekick! What do you need help with today?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:50",
+    "user": "can you do th emath on my scren",
+    "response": "Let me check out what's on SCREEN. Hit me with the deets, and I'll crunch those numbers for you!",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:51",
+    "user": "read my screen to see",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 01:51",
+    "user": "[screen read]",
+    "response": "The image shows a computer screen displaying a math worksheet with 19 quadratic equations to solve for x.\n\nThe worksheet is titled \"Solving Quadratic Equations (A)\" and has two columns of equations. The user is prompted to solve each equation for x.\n\nWhat would you like help with regarding these quadratic equations? Would you like me to solve a specific equation, explain the steps to solve them, o",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:51",
+    "user": "solve 1,2,3",
+    "response": "To solve the first three quadratic equations, I will use the quadratic formula:\n\nx = (-b ± √(b² - 4ac)) / 2a\n\n**Equation 1: -64x² - 48x - 5 = 0**\n\na = -64, b = -48, c = -5\n\nx = (48 ± √((-48)² - 4(-64)(-5))) / 2(-64)\nx = (48 ± √(2304 - 1280)) / (-128)\nx = (48 ± √1024) / (-128)\nx = (48 ± 32) / (-128)\n\nx = (48 + 32) / (-128) or x = (48 - 32) / (-128)\nx = 80 / (-128) or x = 16 / (-128)\nx = -5/8 or x = -1/8\n\n**Equation 2: -9x² + 48x - 64 = 0**\n\na = -9, b = 48, c = -64\n\nx = (-48 ± √((48)² - 4(-9)(-64))) / 2(-9)\nx = (-48 ± √(2304 - 2304)) / (-18)\nx = (-48 ± √0) / (-18)\nx = -48 / (-18)\nx = 8/3\n\n**Equation 3: -64x² - 64x + 9 = 0**\n\na = -64, b = -64, c = 9\n\nx = (64 ± √((-64)² - 4(-64)(9))) / 2(-64)\nx = (64 ± √(4096 + 2304)) / (-128)\nx = (64 ± √6400) / (-128)\nx = (64 ± 80) / (-128)\n\nx = (64 +",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 01:51",
+    "user": "continue",
+    "response": "To get started, let's take a look at the screen. \n SCREEN",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 13:59",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen displaying a chat conversation between two individuals, Alex Zander and David, regarding a summer residence cancellation inquiry. \n\nWhat would you like help with regarding this conversation or the content shown?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 13:59",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen displaying a chat conversation between two individuals, Alex Zander and David, regarding a summer residence cancellation inquiry. \n\nWhat would you like help with regarding this content?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 14:02",
+    "user": "hi",
+    "response": "YO, what's good! Need something?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 14:03",
+    "user": "can you read my screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 14:03",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen with a chat window open, displaying a conversation between two individuals, Alex and David, regarding a summer residence cancellation inquiry. The conversation appears to be about David's plans to potentially move out of his residence and his inquiries about the rental period and implications of traveling mid-summer.\n\nWhat would you like help with ",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 14:03",
+    "user": "can you make an email for this",
+    "response": "Subject: Re: Summer Residence Cancellation Inquiry\n\nHi Alex,\n\nThanks for reaching out. I'm looking into cancelling my summer residence and I have a few questions. \n\nCould you let me know when exactly the May rent period expires? I also want to confirm if I cancel mid-summer (around mid-June or July), would I still need to pay for the June month.\n\n Appreciate your help with this.\n\nBest,\nDavid",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 15:17",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a soccer game on a computer screen, with a live match between Manchester City and Brighton & Hove Albion, currently 0-0 at 15:53 minutes, with a chat box in the corner. \n\nWhat would you like help with regarding this content, such as the teams, the gameplay, or something else?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 17:32",
+    "user": "[screen read]",
+    "response": "The screenshot shows a live stream on Streamed.PK of a soccer match between Manchester City and Crystal Palace. The stream has 1169 viewers and a live chat feature.\n\nWhat would you like help with regarding this live stream, such as accessing the stream, using the chat feature, or something else?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 17:36",
+    "user": "hi",
+    "response": "What's up, partner? Ready to crush the day! What do you need help with?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 17:36",
+    "user": "key",
+    "response": "Got a key to unlock something? Spill the details!",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 17:41",
+    "user": "read my second screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 17:41",
+    "user": "[screen read]",
+    "response": "The screenshot appears to be a coding environment with a focus on a graphical user interface (GUI) development, possibly using Python and the PyQt library, showing a code snippet for painting events and a chat interface. \n\nWhat would you like help with regarding this content, such as understanding the code, implementing a specific feature, or troubleshooting an issue?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 17:43",
+    "user": "who is j cole",
+    "response": "SCREEN",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 17:43",
+    "user": "who is j cole",
+    "response": "The rapper, singer, and songwriter - J. Cole is a legend in the music game, known for his real talk and sick beats!",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 17:43",
+    "user": "whats his best song",
+    "response": "That's a tough one, but \"Power Trip\" is a fan fave - you feel me?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-13 19:23",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen with a dark-colored interface, likely an integrated development environment (IDE) or a text editor, with a Python file open, specifically \"kogane.py\". \n\nWhat would you like help with regarding this Python code or the project you're working on in kogane.py?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 19:25",
+    "user": "read my second screen",
+    "response": "SCREEN",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-13 19:25",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen with a coding interface open, specifically a Python script in a dark mode environment. The user is presented with a pop-up question asking for assistance with the Python code or project in kogane.py.\n\nThe user can ask follow-up questions such as debugging, explaining specific lines of code, suggesting improvements, or understanding the functionalit",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-14 21:32",
+    "user": "read my screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-14 21:32",
+    "user": "[screen read]",
+    "response": "The image shows a Cineplex webpage for \"The Super Mario Galaxy Movie,\" which appears to be scheduled for release on April 1, 2026, with a runtime of 1 hour and 38 minutes, and a PG rating. \n\nWhat would you like help with regarding this movie listing?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-14 21:35",
+    "user": "read my screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-14 21:35",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a Facebook post featuring a photo of three people standing in front of a sign for Reif Estate Winery. \n\nThe post appears to be from December 21, 2020, and has garnered 106 likes and several comments. \n\nWhat would you like help with regarding this Facebook post?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-14 21:36",
+    "user": "read my screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-14 21:36",
+    "user": "[screen read]",
+    "response": "The image shows a LinkedIn profile page for Maya (Kamilah) Oriabure, with her profile picture, name, location, and some connections.\n\nWhat would you like help with regarding this LinkedIn profile?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 22:34",
+    "user": "hi",
+    "response": "What's up, boss! Ready to crush the day together!",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 22:35",
+    "user": "[screen read]",
+    "response": "The screenshot appears to show a chat window with a message from someone named Kogane, who is addressing their boss in a cheerful manner. There is also an option to ask a follow-up question.\n\nWhat would you like help with regarding this chat conversation, such as understanding the context or responding to the message?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 22:53",
+    "user": "ji",
+    "response": "What's up, boss?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 22:53",
+    "user": "ll",
+    "response": "You good? Need something?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 22:54",
+    "user": "read scree",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 22:54",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen with multiple windows open, including a coding interface with a list of tasks and a chat window. \n\nThe user appears to be working on a project with a detailed to-do list and is seeking assistance; I can help with implementing features like a response bubble polish, KOGANE icon polish, or global design elements. What would you like help with regardi",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 22:54",
+    "user": "[screen read]",
+    "response": "The image shows a code snippet written in Python, defining file paths using the `os.path` module. The code sets the paths for a base directory, an icon file, and a history file.\n\nWhat would you like help with regarding this code snippet, such as troubleshooting, understanding the logic, or modifying it to achieve a specific task?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 23:12",
+    "user": "hey",
+    "response": "Yoooo, what's good? I'm live and ready to roll, partner! What's on your mind?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 23:12",
+    "user": "[screen read]",
+    "response": "I see a blank black and white image with no visible content. What would you like help with regarding this image, or would you like to describe the image you intended to share?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 23:13",
+    "user": "[screen read]",
+    "response": "The image shows a collection of 10 hooded and non-hooded jackets with various designs and color schemes.\n\nWhat would you like help with regarding these jackets, such as finding a specific style or color, or perhaps information about the brand or purchasing?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 23:13",
+    "user": "[screen read]",
+    "response": "The image shows a navy blue and gray windbreaker with a hood, featuring a logo on the chest and the word \"SUPREME\" printed across the front. The jacket also has accents of teal and a small text on the right cuff.\n\nWhat would you like help with regarding this Supreme windbreaker, such as finding a similar product, learning more about the brand, or something else?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 23:14",
+    "user": "[screen read]",
+    "response": "The image shows a navy blue and gray windbreaker with a hood, featuring logos for \"SUPREME\" and another logo on the chest. \n\nWhat would you like help with regarding this windbreaker, such as information about the brand, sizing, or styling suggestions?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 23:17",
+    "user": "hi",
+    "response": "LET'S GO, we're live! What can I help you with today?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 23:19",
+    "user": "read screen",
+    "response": "SCREEN",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 23:19",
+    "user": "[screen read]",
+    "response": "The image shows a screenshot of a computer screen with a chat interface on a dark background. The chat appears to be discussing AI models, specifically Gemini 2.0 Flash, Llama 4 Scout, and Claude Sonnet, with the user seemingly seeking advice on which model to use.\n\nWhat would you like help with regarding this AI chat content?",
+    "has_image": true
+  },
+  {
+    "ts": "2026-05-16 23:30",
+    "user": "hey",
+    "response": "What's up, boss! Ready to tackle the day!",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 23:30",
+    "user": "hey",
+    "response": "Yooo, what's good! I'm Kogane, your personal shikigami AI, ready to roll! What's on your mind?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-16 23:39",
+    "user": "hi",
+    "response": "What's up! I'm Kogane, your go-to AI sidekick! How can I hype up your day?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-17 00:00",
+    "user": "hi",
+    "response": "YOO, what's good! I'm Kogane, your go-to shikigami AI! What can I do for you today?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-17 00:00",
+    "user": "joj",
+    "response": "JOJO REFERENCE! You a fan of the series?",
+    "has_image": false
+  },
+  {
+    "ts": "2026-05-17 00:00",
+    "user": "yh",
+    "response": "YARE YARE DAZE! Let's get hyped, what's on your mind?",
+    "has_image": false
+  }
+]
