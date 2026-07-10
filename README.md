@@ -2,7 +2,9 @@
 
 > A floating AI-powered desktop assistant built in Python. Ask questions, get real-time answers — without leaving your screen.
 
-▶️ [Watch Demo](demo.mp4)
+▶️ [Watch Demo](https://github.com/user-attachments/assets/3e048eba-ebef-4838-8cf6-2bbdd49c322d)
+
+<video src="https://github.com/user-attachments/assets/3e048eba-ebef-4838-8cf6-2bbdd49c322d" controls width="100%"></video>
 
 ---
 
