@@ -36,7 +36,7 @@ Kogane sits on your desktop as a floating window and connects to a large languag
 
 ### Prerequisites
 - Python 3.10+
-- A free [Groq API key](https://console.groq.com)
+- A free Groq API key — sign up at [console.groq.com](https://console.groq.com), it's free and takes 2 minutes. No credit card required.
 
 ### Installation
 
